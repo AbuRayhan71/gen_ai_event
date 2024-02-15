@@ -1,0 +1,21 @@
+input :Barca vs Real
+
+
+Event Title: "⚽ El Clásico: FC Barcelona vs Real Madrid - The Battle of Titans"
+Date: [Placeholder or Estimated Date]
+Details: "Immerse in the excitement of El Clásico! Watch as FC Barcelona and Real Madrid face off in one of the most intense and historic rivalries in football. Experience the passion and the drama in this epic encounter."
+Sponsored Message: "Exclusive El Clásico gear is now available! Visit https://elclasico.gear for the latest merchandise."
+Links:
+  - Buy Tickets: https://tickets.elclasico.com
+  - More About El Clásico: https://www.laliga.com/el-clasico
+
+Input : Man u vs Man city 
+Event Title: "⚽ Manchester Derby: Man U vs Man City - A Rivalry Reignited"
+Date: October 22, 2024  // Placeholder or estimated date
+Details: "Experience the excitement of the Manchester Derby! Join the crowd as Manchester United and Manchester City face off in a thrilling match that defines a historic rivalry. Don't miss this epic encounter of English football's titans."
+Sponsored Message: "Gear up for the Derby! Exclusive Manchester Derby merchandise available at https://officialmerch.manchesterderby.com"
+Links:
+  - Tickets: https://tickets.manchesterderby.com
+  - Match Info: https://www.premierleague.com/manchester-derby
+ 
+ 
